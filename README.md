@@ -670,8 +670,6 @@ mindmap
 
 <br/>
 
-<!-- Quote block with animation -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 
 <br/><br/>
 
