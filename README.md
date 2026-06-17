@@ -13,20 +13,20 @@
 
 <!-- ✦ ANIMATED TYPING SVG ✦ -->
 <a href="https://github.com/Yogeshwari7887">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🚀+Building+the+Future+with+Code;🤖+AI-Powered+Smart+Traffic+%7C+92%25+Accuracy;🌐+Full+Stack+%7C+Python+%7C+Django+%7C+React;💡+B.Tech+IT+%40+VIT+Pune+%7C+CGPA+9.4+⭐;🔥+Turning+Ideas+into+Intelligent+Software;✨+Clean+Architecture+%7C+Scalable+Solutions;💜+Pune%2C+India+→+Making+Global+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=26&amp;duration=2500&amp;pause=800&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=%F0%9F%9A%80+Building+the+Future+with+Code;%F0%9F%A4%96+AI-Powered+Smart+Traffic+%7C+92%25+Accuracy;%F0%9F%8C%90+Full+Stack+%7C+Python+%7C+Django+%7C+React;%F0%9F%92%A1+B.Tech+IT+%40+VIT+Pune+%7C+CGPA+9.4+%E2%AD%90;%F0%9F%94%A5+Turning+Ideas+into+Intelligent+Software;%E2%9C%A8+Clean+Architecture+%7C+Scalable+Solutions;%F0%9F%92%9C+Pune%2C+India+%E2%86%92+Making+Global+Impact" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- ✦ BADGES ROW ✦ -->
 <a href="mailto:yogeshwari7887@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email-yogeshwari7887-FF6FD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0a2e"/>
+  <img src="https://img.shields.io/badge/✉️_Email-yogeshwari7887-FF6FD8?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=120E2E"/>
 </a>&nbsp;
 <a href="https://github.com/Yogeshwari7887">
-  <img src="https://img.shields.io/badge/🌸_GitHub-Yogeshwari7887-AE45EA?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0a2e"/>
+  <img src="https://img.shields.io/badge/💻_GitHub-Yogeshwari7887-A855F7?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=120E2E"/>
 </a>&nbsp;
-<img src="https://img.shields.io/badge/📍_Pune-Maharashtra,_India_🇮🇳-FF6FD8?style=for-the-badge&labelColor=1a0a2e"/>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Yogeshwari7887&label=✨+Visitors&color=AE45EA&style=for-the-badge&labelColor=1a0a2e"/>
+<img src="https://img.shields.io/badge/📍_Pune-Maharashtra,_India-FF6FD8?style=for-the-badge&amp;labelColor=120E2E"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Yogeshwari7887&amp;label=✨+Visitors&amp;color=A855F7&amp;style=for-the-badge&amp;labelColor=120E2E"/>
 
 <br/><br/>
 
@@ -35,8 +35,8 @@
 
 <br/>
 
-<!-- ✦ HERO CODING GIF ✦ -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="520">
+<!-- ✦ HERO SYSTEMS WORKSPACE ✦ -->
+<img src="https://media.giphy.com/media/L1R1TVR9spwtg831G1/giphy.gif" width="520">
 
 <br/><br/>
 
@@ -54,22 +54,22 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=32&pause=99999&color=FF6FD8&center=true&vCenter=true&width=500&height=60&lines=✨+About+Me+✨" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;weight=700&amp;size=32&amp;pause=99999&amp;color=FF6FD8&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=60&amp;lines=%E2%9C%A8+About+Me+%E2%9C%A8" alt="About Me" />
 
 <br/>
 
-<!-- ✦ ANIMATED GIRL CODING GIF ✦ -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
+<!-- ✦ ANIMATED CODING WORKSPACE ✦ -->
+<img src="https://media.giphy.com/media/WT4y9S5uU2sW243uD5/giphy.gif" width="380"/>
 
 <br/><br/>
 
 <!-- ✦ GLOWING INTRO CARD ✦ -->
 
-![](https://img.shields.io/badge/💜-SHE_WHO_CODES-FF6FD8?style=for-the-badge&labelColor=2d0036&color=AE45EA)
+![](https://img.shields.io/badge/💻-CODE_ARCHITECT-AE45EA?style=for-the-badge&labelColor=1a0a2e&color=AE45EA)
 &nbsp;
-![](https://img.shields.io/badge/🌸-GIRL_IN_TECH-AE45EA?style=for-the-badge&labelColor=2d0036&color=FF6FD8)
+![](https://img.shields.io/badge/🤖-AI_INNOVATOR-FF6FD8?style=for-the-badge&labelColor=1a0a2e&color=FF6FD8)
 &nbsp;
-![](https://img.shields.io/badge/🚀-AI_BUILDER-FF6FD8?style=for-the-badge&labelColor=2d0036&color=AE45EA)
+![](https://img.shields.io/badge/🚀-FULL_STACK_DEV-AE45EA?style=for-the-badge&labelColor=1a0a2e&color=AE45EA)
 
 <br/><br/>
 
@@ -79,13 +79,13 @@
 
 ```python
 # ╔════════════════════════════════════════════════════════════════════╗
-# ║  ✨  MEET YOGESHWARI  ·  She/Her  ·  Full Stack Dev & AI Builder  ║
+# ║  ✨  MEET YOGESHWARI  ·  Full Stack Dev & AI Systems Architect     ║
 # ╚════════════════════════════════════════════════════════════════════╝
 
 class YogeshwariKalaskar:
 
-    name         =  "Yogeshwari Sudhakar Kalaskar 🌸"
-    pronouns     =  "She / Her 💜"
+    name         =  "Yogeshwari Sudhakar Kalaskar ⚡"
+    focus        =  "AI & Full Stack Systems 🚀"
     based_in     =  "Pune, Maharashtra, India 🇮🇳"
     role         =  ["Full Stack Developer 🌐", "Python Engineer 🐍",
                      "AI Solutions Builder 🤖", "Creative Problem Solver ✨"]
@@ -103,8 +103,8 @@ class YogeshwariKalaskar:
 
     def __init__(self):
         print("╔══════════════════════════════════════════════════╗")
-        print("║  Hello World! 👋  I'm Yogeshwari Kalaskar  🌸    ║")
-        print("║  A girl who codes, dreams, and ships! 🚀 💜       ║")
+        print("║  Hello World! 👋  I'm Yogeshwari Kalaskar  ✨    ║")
+        print("║  An engineer who builds, scales, and ships! 🚀   ║")
         print("╚══════════════════════════════════════════════════╝")
 
 me = YogeshwariKalaskar()
@@ -114,8 +114,8 @@ me = YogeshwariKalaskar()
 
 <br/>
 
-<!-- ✦ ANIMATED SPARKLE GIRL CODER ✦ -->
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400">
+<!-- ✦ ANIMATED SYSTEMS WORKFLOW ✦ -->
+<img src="https://media.giphy.com/media/SWoRK259VVNN0OD33B/giphy.gif" width="400">
 
 <br/><br/>
 
@@ -124,32 +124,32 @@ me = YogeshwariKalaskar()
 <table>
 <tr>
 <td align="center" width="220">
-<img src="https://img.shields.io/badge/🎓-B.Tech_IT-AE45EA?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/🎓-B.Tech_IT-A855F7?style=for-the-badge&amp;labelColor=120E2E"/>
 <br/><br/>
 <b>VIT Pune</b>
 <br/><sub>CGPA 9.4 / 10 ⭐</sub>
 <br/><sub>Class of 2028 🎓</sub>
 </td>
 <td align="center" width="220">
-<img src="https://img.shields.io/badge/🤖-AI_Engineer-FF6FD8?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/🤖-AI_Engineer-FF6FD8?style=for-the-badge&amp;labelColor=120E2E"/>
 <br/><br/>
 <b>YOLOv8 + Python</b>
 <br/><sub>92% Accuracy 🎯</sub>
 <br/><sub>Real-world Impact ⚡</sub>
 </td>
 <td align="center" width="220">
-<img src="https://img.shields.io/badge/🌐-Full_Stack-AE45EA?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/🌐-Full_Stack-A855F7?style=for-the-badge&amp;labelColor=120E2E"/>
 <br/><br/>
 <b>Django · React · MySQL</b>
 <br/><sub>3+ Major Projects 🚀</sub>
 <br/><sub>End-to-end Delivery ✅</sub>
 </td>
 <td align="center" width="220">
-<img src="https://img.shields.io/badge/💜-Girl_In_Tech-FF6FD8?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/💻-Developer-FF6FD8?style=for-the-badge&amp;labelColor=120E2E"/>
 <br/><br/>
-<b>She / Her 🌸</b>
+<b>Software Engineer ✨</b>
 <br/><sub>Pune, India 🇮🇳</sub>
-<br/><sub>Open to Work ✨</sub>
+<br/><sub>Open to Work ✅</sub>
 </td>
 </tr>
 </table>
@@ -168,14 +168,14 @@ me = YogeshwariKalaskar()
 ![](https://img.shields.io/badge/🌙_Midnight_Coder-1a0a2e?style=flat-square&color=FF6FD8)
 ![](https://img.shields.io/badge/🖤_Dark_Mode_Forever-1a0a2e?style=flat-square&color=AE45EA)
 ![](https://img.shields.io/badge/💜_Purple_Is_Life-1a0a2e?style=flat-square&color=FF6FD8)
-![](https://img.shields.io/badge/🌸_Girl_Who_Builds-1a0a2e?style=flat-square&color=AE45EA)
+![](https://img.shields.io/badge/🚀_Systems_Architect-1a0a2e?style=flat-square&color=AE45EA)
 ![](https://img.shields.io/badge/🐛_Bug_Slayer-1a0a2e?style=flat-square&color=FF6FD8)
 ![](https://img.shields.io/badge/🌟_Dream_Big_Build_Bigger-1a0a2e?style=flat-square&color=AE45EA)
 
 <br/><br/>
 
-<!-- ✦ SECOND GIRL-CODER GIF ✦ -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420">
+<!-- ✦ DEVELOPER WORKSPACE ✦ -->
+<img src="https://media.giphy.com/media/dul4QPFeaCFeDCHxst/giphy.gif" width="420">
 
 <br/><br/>
 
@@ -201,7 +201,7 @@ me = YogeshwariKalaskar()
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&pause=99999&color=FF6FD8&center=true&vCenter=true&width=420&height=55&lines=🎯+At+A+Glance" alt="Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;weight=700&amp;size=30&amp;pause=99999&amp;color=FF6FD8&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=55&amp;lines=%F0%9F%8E%AF+At+A+Glance" alt="Stats" />
 
 <br/>
 
@@ -238,98 +238,64 @@ me = YogeshwariKalaskar()
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
 <!-- ╔══════════════════════════════════════════════╗ -->
 <!-- ║            🛠️  TECH STACK                   ║ -->
 <!-- ╚══════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp; `< FEATURED PROJECTS />`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp; `< TECH STACK />`
 
 <br/>
 
-### 🐍 Languages
+<!-- ✦ MULTI-COLUMN TECH STACK MATRIX ✦ -->
+<table>
+  <tr>
+    <th align="center" width="25%">💻 Languages</th>
+    <th align="center" width="25%">⚙️ Backend & AI</th>
+    <th align="center" width="25%">🎨 Frontend & UI</th>
+    <th align="center" width="25%">🛠️ Databases & Tools</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp&amp;theme=dark&amp;perline=1" alt="Languages"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=django,flask,opencv,tensorflow&amp;theme=dark&amp;perline=1" alt="Backend/AI"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&amp;theme=dark&amp;perline=1" alt="Frontend"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,git,postman&amp;theme=dark&amp;perline=1" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-&nbsp;<img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=databricks&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,php,js,java,c,cpp&theme=dark&perline=6"/>
+### ⚡ System Proficiency Levels
 
-<br/><br/>
+```
+  ╔═══════════════════════════════════════════════════════════════════════╗
+  ║                    ⚡  SKILL POWER LEVELS                            ║
+  ╠═════════════════════════╦═════════════════════════════╦══════════════╣
+  ║  SKILL                  ║  POWER BAR                  ║  LEVEL       ║
+  ╠═════════════════════════╬═════════════════════════════╬══════════════╣
+  ║  🐍 Python              ║  ████████████████████░  90% ║  EXPERT ⭐⭐⭐ ║
+  ║  🗄️  MySQL              ║  ████████████████████░  90% ║  EXPERT ⭐⭐⭐ ║
+  ║  🌐 HTML5               ║  ████████████████████░  90% ║  EXPERT ⭐⭐⭐ ║
+  ║  📊 SQL (Query)         ║  ████████████████░░░░░  80% ║  ADVANCED ⭐⭐ ║
+  ║  🎨 CSS3                ║  ████████████████░░░░░  80% ║  ADVANCED ⭐⭐ ║
+  ║  ⚙️  C / C++             ║  ████████████████░░░░░  80% ║  ADVANCED ⭐⭐ ║
+  ║  🎯 Django Framework    ║  ██████████████░░░░░░░  70% ║  SKILLED  ⭐  ║
+  ║  🤖 YOLOv8 / CV         ║  ██████████████░░░░░░░  70% ║  SKILLED  ⭐  ║
+  ║  🟨 JavaScript          ║  ████████████░░░░░░░░░  60% ║  GROWING  📈  ║
+  ║  ☕ Java                ║  ████████████░░░░░░░░░  60% ║  GROWING  📈  ║
+  ╚═════════════════════════╩═════════════════════════════╩══════════════╝
+```
 
-### 🎨 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark&perline=4"/>
-
-<br/><br/>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-<img src="https://skillicons.dev/icons?i=django,flask&theme=dark&perline=4"/>
-
-<br/><br/>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=4"/>
-
-<br/><br/>
-
-### 🤖 AI & Computer Vision
-
-<p>
-<img src="https://img.shields.io/badge/YOLOv8-FF6B35?style=for-the-badge&logo=opencv&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Computer_Vision-AE45EA?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
-
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark&perline=4"/>
-
-<br/><br/>
-
-### 🛠️ Tools & Environment
-
-<p>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-&nbsp;<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,postman&theme=dark&perline=5"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="380">
 
@@ -349,11 +315,11 @@ me = YogeshwariKalaskar()
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&pause=99999&color=FF6FD8&center=true&vCenter=true&width=500&height=55&lines=🚀+Featured+Projects" alt="Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;weight=700&amp;size=30&amp;pause=99999&amp;color=FF6FD8&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=55&amp;lines=%F0%9F%9A%80+Featured+Projects" alt="Projects" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="380">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="380">
 
 <br/><br/>
 
@@ -364,11 +330,11 @@ me = YogeshwariKalaskar()
 
 ### 🚦 Project 01 &nbsp;·&nbsp; AI Smart Traffic Management System
 
-<img src="https://img.shields.io/badge/🏆_FLAGSHIP-YOLOv8_+_AI-AE45EA?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/🏆_FLAGSHIP-YOLOv8_+_AI-A855F7?style=for-the-badge&amp;labelColor=120E2E"/>
 &nbsp;
-<img src="https://img.shields.io/badge/✅_Completed-January_2026-FF6FD8?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/✅_Completed-January_2026-FF6FD8?style=for-the-badge&amp;labelColor=120E2E"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Impact-92%25_Accuracy-AE45EA?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/Impact-92%25_Accuracy-A855F7?style=for-the-badge&amp;labelColor=120E2E"/>
 
 </div>
 
@@ -376,50 +342,51 @@ me = YogeshwariKalaskar()
 <tr>
 <td width="55%">
 
-```
-🎯  PROBLEM
+<pre lang="text">
+🎯  PROBLEM STATEMENT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Emergency vehicles — ambulances, fire trucks
-— get stuck in traffic. Every extra minute
-can cost a human life. Old systems are blind.
+Emergency vehicles (ambulances, fire trucks)
+get stuck in traffic, costing critical lives.
+Legacy traffic control systems are static.
 
-💡  MY SOLUTION
+💡  AI CORRIDOR SOLUTION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-An AI-powered system that SEES and REACTS:
-· YOLOv8 detects emergency vehicles live
-· Traffic signals clear a green corridor
-· Real-time dashboard shows everything
+An intelligent system that sees & reacts:
+• YOLOv8 computer vision detects vehicles
+• Signals dynamically clear green corridors
+• Real-time web panel provides control
 
-🏆  RESULTS
+🏆  METRICS & IMPACT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🌸 92%   — Vehicle detection accuracy
-  ⚡ ~40%  — Faster emergency response
-  📊 Live  — Analytics dashboard
-  🟢 Auto  — Signal synchronization
-```
+  📈 92%   — Vehicle Detection Accuracy
+  ⚡ ~40%  — Faster Emergency Response
+  📊 Live  — Control Room Analytics
+  🟢 Auto  — Intersection Syncing
+</pre>
 
 </td>
 <td width="45%" align="center">
 
-```
-╔═══════════════════════════════╗
-║  🚑  AMBULANCE DETECTED 🌸   ║
-║  Confidence   →  94.2%       ║
-║                               ║
-║  Signal A  →  🔴  STOP       ║
-║  Signal B  →  🔴  STOP       ║
-║  Signal C  →  🟢  GO ✨      ║
-║                               ║
-║  Corridor CLEARED  ✅        ║
-║  Time Saved  →  -38%  ⚡     ║
-╚═══════════════════════════════╝
-```
+<pre lang="text">
+┌─────────────────────────────┐
+│  🚑  AMBULANCE DETECTED     │
+├─────────────────────────────┤
+│  Confidence   →  94.2%      │
+│                             │
+│  Signal A     →  🔴 STOP    │
+│  Signal B     →  🔴 STOP    │
+│  Signal C     →  🟢 GO      │
+│                             │
+│  Corridor     →  CLEARED ✅ │
+│  Response     →  ~40% Fst ⚡│
+└─────────────────────────────┘
+</pre>
 
 <br/>
 
 <img src="https://img.shields.io/badge/YOLOv8-FF6B35?style=flat-square&logo=opencv"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 </td>
@@ -433,9 +400,9 @@ An AI-powered system that SEES and REACTS:
 
 ### 🛒 Project 02 &nbsp;·&nbsp; GrowPure — Organic E-Commerce Platform
 
-<img src="https://img.shields.io/badge/🌿_FULL_STACK-Django_+_MySQL-22c55e?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/🌿_FULL_STACK-Django_+_MySQL-A855F7?style=for-the-badge&amp;labelColor=120E2E"/>
 &nbsp;
-<img src="https://img.shields.io/badge/✅_Production_Grade-Complete_Workflows-FF6FD8?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/✅_Production_Grade-Complete_Workflows-FF6FD8?style=for-the-badge&amp;labelColor=120E2E"/>
 
 </div>
 
@@ -443,42 +410,42 @@ An AI-powered system that SEES and REACTS:
 <tr>
 <td width="45%" align="center">
 
-```
-╔══════════════════════════════════╗
-║  🌿  GROWPURE · ADMIN PANEL 🌸  ║
-╠══════════════════════════════════╣
-║  📦 Orders    →   247   🟢      ║
-║  👥 Users     →  1,394  🔵      ║
-║  🏷️  Coupons   →    18   🟣      ║
-║  💰 Revenue   → ₹92,400 📈      ║
-╠══════════════════════════════════╣
-║  🛒 Cart Sessions   Active: 83  ║
-║  ❤️  Wishlists       Total: 512  ║
-║  🚚 Orders Pending       →  12  ║
-╚══════════════════════════════════╝
-```
+<pre lang="text">
+┌─────────────────────────────────┐
+│  🌿  GROWPURE · ADMIN PANEL     │
+├─────────────────────────────────┤
+│  📦 Orders      →   247   🟢    │
+│  👥 Users       →  1,394  🔵    │
+│  🏷️  Coupons     →    18   🟣    │
+│  💰 Revenue     → ₹92,400 📈    │
+├─────────────────────────────────┤
+│  🛒 Cart Sessions Active: 83    │
+│  ❤️  Wishlists     Total:  512   │
+│  🚚 Pending Orders →  12        │
+└─────────────────────────────────┘
+</pre>
 
 </td>
 <td width="55%">
 
-```
-🌟  FEATURES BUILT
+<pre lang="text">
+🌟  ENTERPRISE FEATURES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🔐  Secure Auth (Login / Register)
-  🛍️   Shopping Cart · Real-Time Updates
-  ❤️   Wishlist Functionality
-  🏷️   Smart Coupon & Discount Engine
-  📦  Full Order Tracking Pipeline
-  👤  User & Admin Dashboards
-  📱  Fully Responsive Design
-  🔍  Product Search & Filter
-  📊  Sales Analytics Panel
+  🔐 Secure Authentication System
+  🛍️ Shopping Cart & Session Management
+  ❤️ Personalized Wishlists
+  🏷️ Dynamic Coupon & Discount Engine
+  📦 Order Tracking & Shipping Pipelines
+  👤 Dual Dashboards (User & Vendor)
+  📱 Mobile-First Responsive Design
+  🔍 Advanced Product Filters & Search
+  📊 Sales Analytics & Reporting
 
-🏗️  STACK
+🏗️  TECH ARCHITECTURE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Django MVC → MySQL → Bootstrap UI
-  Session Management + CSRF Protection
-```
+  Django Core MVC | MySQL Database
+  Secure Cookie Sessions + CSRF Security
+</pre>
 
 </td>
 </tr>
@@ -491,9 +458,9 @@ An AI-powered system that SEES and REACTS:
 
 ### 💙 Project 03 &nbsp;·&nbsp; YourHearingEar — Personal Counseling Platform
 
-<img src="https://img.shields.io/badge/💜_SOCIAL_IMPACT-Ethical_UX-AE45EA?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/💜_SOCIAL_IMPACT-Ethical_UX-A855F7?style=for-the-badge&amp;labelColor=120E2E"/>
 &nbsp;
-<img src="https://img.shields.io/badge/✅_Completed-September_2025-FF6FD8?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/✅_Completed-September_2025-FF6FD8?style=for-the-badge&amp;labelColor=120E2E"/>
 
 </div>
 
@@ -501,27 +468,26 @@ An AI-powered system that SEES and REACTS:
 <tr>
 <td width="55%">
 
-```
-💙  MISSION
+<pre lang="text">
+💙  PLATFORM MISSION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-A digital safe space for empathetic counseling.
-Built with care for every user who needs to
-feel heard, supported, and guided — with ethics
-at the core of every design decision.
+A digital safe space for empathetic counseling
+built with ethical design standards to provide
+support, guidance, and high-trust counseling.
 
-🌟  FEATURES
+🌟  UX & FUNCTIONALITY
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🧭  Structured Guidance System
-  💬  Conversational Support Interface
-  🎨  Accessible User-Centric Design
-  🛡️   Ethical Communication Framework
-  🤝  Trust-First User Interactions
-  🔒  Privacy-Aware Architecture
+  🧭 Structured Guidance Modules
+  💬 Conversational Support Frameworks
+  🎨 High-Accessibility Inclusive Design
+  🛡️ Ethical User Interactions
+  🤝 Trust-Building Interfaces
+  🔒 Privacy-First Data Safeguards
 
-💎  PHILOSOPHY
+💎  PRODUCT PHILOSOPHY
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Empathy → Trust → Support → Growth 🌸
-```
+  Empathy → Trust → Support → Growth
+</pre>
 
 </td>
 <td width="45%" align="center">
@@ -553,58 +519,142 @@ at the core of every design decision.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=30&pause=99999&color=AE45EA&center=true&vCenter=true&width=500&height=55&lines=📊+GitHub+Stats" alt="Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;weight=700&amp;size=30&amp;pause=99999&amp;color=AE45EA&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=55&amp;lines=%F0%9F%93%8A+GitHub+Stats" alt="Stats" />
 
 <br/>
 
-<!-- ROW 1 -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yogeshwari7887&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=FF6FD8&icon_color=AE45EA&text_color=FFD6F5&border_radius=18&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshwari7887&theme=radical&hide_border=true&background=0D0D1A&ring=FF6FD8&fire=AE45EA&currStreakLabel=FF6FD8&sideLabels=FFD6F5&currStreakNum=ffffff&sideNums=FFD6F5&dates=888888&border_radius=18"/>
+<!-- ROW 1 — Core Stats & Streaks -->
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Yogeshwari7887&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D0D1A&amp;title_color=FF6FD8&amp;icon_color=AE45EA&amp;text_color=FFD6F5&amp;border_radius=18&amp;count_private=true&amp;include_all_commits=true" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshwari7887&amp;theme=radical&amp;hide_border=true&amp;background=0D0D1A&amp;ring=FF6FD8&amp;fire=AE45EA&amp;currStreakLabel=FF6FD8&amp;sideLabels=FFD6F5&amp;currStreakNum=ffffff&amp;sideNums=FFD6F5&amp;dates=888888&amp;border_radius=18" width="100%" alt="Streak Stats"/>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
-<!-- ROW 2 — Language donuts -->
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=FF6FD8&text_color=FFD6F5&border_radius=18&langs_count=8"/>
-&nbsp;&nbsp;
-<img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&layout=compact&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=FF6FD8&text_color=FFD6F5&border_radius=18&langs_count=10"/>
+<!-- ROW 2 — Language Stats -->
+<table border="0" width="100%">
+  <tr>
+    <td width="48%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&amp;layout=donut-vertical&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D0D1A&amp;title_color=FF6FD8&amp;text_color=FFD6F5&amp;border_radius=18&amp;langs_count=8" width="100%" alt="Top Languages Donut"/>
+    </td>
+    <td width="52%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D0D1A&amp;title_color=FF6FD8&amp;text_color=FFD6F5&amp;border_radius=18&amp;langs_count=10" width="100%" alt="Top Languages List"/>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
-<!-- ROW 3 — Activity graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshwari7887&bg_color=0D0D1A&color=FF6FD8&line=AE45EA&point=FFD6F5&area=true&area_color=FF6FD8&hide_border=true&radius=18&custom_title=Yogeshwari%27s%20Contribution%20Graph%20🌸"/>
+<!-- ROW 3 — Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshwari7887&amp;bg_color=0D0D1A&amp;color=FF6FD8&amp;line=AE45EA&amp;point=FFD6F5&amp;area=true&amp;area_color=FF6FD8&amp;hide_border=true&amp;radius=18&amp;custom_title=Yogeshwari%27s%20Contribution%20Graph%20⚡" alt="Activity Graph"/>
 
 <br/><br/>
 
 <!-- ROW 4 — Trophies -->
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Yogeshwari7887&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Yogeshwari7887&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=6" alt="Profile Trophies"/>
 
 <br/><br/>
 
 <!-- ROW 5 — Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yogeshwari7887&theme=radical"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yogeshwari7887&theme=radical"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yogeshwari7887&theme=radical"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yogeshwari7887&theme=radical"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yogeshwari7887&theme=radical&utcOffset=5.5"/>
+<table border="0" width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yogeshwari7887&amp;theme=radical" width="100%" alt="Profile Details Card"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yogeshwari7887&amp;theme=radical" width="100%" alt="Repos Per Language Card"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yogeshwari7887&amp;theme=radical" width="100%" alt="Most Commit Language Card"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yogeshwari7887&amp;theme=radical" width="100%" alt="Stats Card"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yogeshwari7887&amp;theme=radical&amp;utcOffset=5.5" width="100%" alt="Productive Time Card"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ✦ DSA & CODING PROFILES ✦ -->
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### 🧩 DSA & Competitive Programming Profiles
+
+<a href="https://leetcode.com/Yogeshwari7887" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/yogeshwari7887" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/yogeshwari7887" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank"/>
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/yogeshwari7887" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/yogeshwari7887" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+<br/><br/>
+
+| 🎮 Platform | 🔍 Focus Area | ⚡ Status |
+| :--- | :--- | :--- |
+| **LeetCode** | Data Structures & Algorithms | `Active (Daily Solver)` |
+| **CodeChef** | Competitive Programming | `Active (Contestant)` |
+| **HackerRank** | Python & SQL Challenges | `Verified Badge Holder` |
+| **Codeforces** | Algorithmic Problem Solving | `Active Solver` |
+| **GeeksforGeeks** | CS Fundamentals & Practice | `Consistent Learner` |
+
+<br/><br/>
+
+### 📚 Currently Learning & Exploring
+
+```mermaid
+mindmap
+  root((Learning Map))
+    AI & Machine Learning
+      Computer Vision
+      YOLOv8 & Object Detection
+      Deep Learning Foundations
+    Full Stack Engineering
+      Advanced Django REST APIs
+      React.js Ecosystem
+      System Design
+    Cloud & DevOps
+      Docker Fundamentals
+      CI/CD Pipelines
+      Cloud Deployment
+    Data & Algorithms
+      Advanced DSA
+      Database Optimization
+      Data Engineering Basics
+```
 
 <br/>
+
+</div>
+
+<br/><br/>
 
 <!-- ╔══════════════════════════════════════════════╗ -->
 <!-- ║               🐍  SNAKE                     ║ -->
@@ -612,7 +662,7 @@ at the core of every design decision.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=28&pause=99999&color=FF6FD8&center=true&vCenter=true&width=500&height=55&lines=🐍+My+Contribution+Snake" alt="Snake" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
 <br/>
 
@@ -640,13 +690,13 @@ at the core of every design decision.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=28&pause=99999&color=AE45EA&center=true&vCenter=true&width=500&height=55&lines=🗺️+My+2025–26+Roadmap" alt="Roadmap" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;weight=700&amp;size=28&amp;pause=99999&amp;color=AE45EA&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=55&amp;lines=%F0%9F%97%BA%EF%B8%8F+My+2025%E2%80%9326+Roadmap" alt="Roadmap" />
 
 </div>
 
 ```
   ╔════════════════════════════════════════════════════════════════════╗
-  ║            🌸  YOGESHWARI'S TECH ROADMAP 2025 — 2026             ║
+  ║            ⚡  YOGESHWARI'S TECH ROADMAP 2025 — 2026             ║
   ╠═══════════════════════════════╦════════════════════════════════════╣
   ║   ✅  COMPLETED               ║   🔥  IN PROGRESS                 ║
   ╠═══════════════════════════════╬════════════════════════════════════╣
@@ -660,7 +710,7 @@ at the core of every design decision.
   ╠═══════════════════════════════╩════════════════════════════════════╣
   ║                     🎯  NEXT BIG GOALS                            ║
   ╠════════════════════════════════════════════════════════════════════╣
-  ║  🌸  Land a Software Engineering Internship                       ║
+  ║  ⚡  Land a Software Engineering Internship                       ║
   ║  🚀  Build a SaaS Product from scratch                            ║
   ║  💻  Contribute to 10+ Open Source Repositories                   ║
   ║  ☁️   Master Cloud Architecture (AWS / Azure)                      ║
@@ -685,7 +735,7 @@ at the core of every design decision.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=28&pause=99999&color=FF6FD8&center=true&vCenter=true&width=500&height=55&lines=🤝+Let's+Connect!" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&amp;weight=700&amp;size=28&amp;pause=99999&amp;color=FF6FD8&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=55&amp;lines=%F0%9F%A4%9D+Let%27s+Connect%21" alt="Connect" />
 
 <br/>
 
@@ -698,40 +748,35 @@ at the core of every design decision.
 <br/>
 
 <a href="mailto:yogeshwari7887@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email_Me-Let's_Talk-FF6FD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d0036"/>
+  <img src="https://img.shields.io/badge/✉️_Email_Me-Let's_Talk-FF6FD8?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=120E2E"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Yogeshwari7887">
-  <img src="https://img.shields.io/badge/🐙_Follow_on_GitHub-Yogeshwari7887-AE45EA?style=for-the-badge&logo=github&logoColor=white&labelColor=2d0036"/>
+  <img src="https://img.shields.io/badge/🐙_Follow_on_GitHub-Yogeshwari7887-A855F7?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=120E2E"/>
 </a>
 
 <br/><br/>
 
 <!-- RANDOM DEV QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="85%"/>
-
-<br/><br/>
-
-<!-- VISITOR COUNTER -->
-![Visitor Count](https://profile-counter.glitch.me/Yogeshwari7887/count.svg)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical&amp;border=true" width="85%"/>
 
 <br/><br/>
 
 <!-- ✦ FOOTER BADGES ✦ -->
-<img src="https://img.shields.io/badge/Made_with-💜_in_India_🇮🇳-FF6FD8?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/Made_with-💜_in_India_🇮🇳-FF6FD8?style=for-the-badge&amp;labelColor=120E2E"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Always-Learning_📚-AE45EA?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/Always-Learning_📚-A855F7?style=for-the-badge&amp;labelColor=120E2E"/>
 &nbsp;
-<img src="https://img.shields.io/badge/She_Codes-She_Ships_🚀-FF6FD8?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/Build_Fast-Ship_Faster_🚀-FF6FD8?style=for-the-badge&amp;labelColor=120E2E"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Open_to-Work_✅-22c55e?style=for-the-badge&labelColor=2d0036"/>
+<img src="https://img.shields.io/badge/Open_to-Work_✅-22c55e?style=for-the-badge&amp;labelColor=120E2E"/>
 
 <br/><br/>
 
 <!-- ✦ ANIMATED FOOTER WAVE ✦ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,35:AE45EA,65:6C63FF,100:0D0D0D&height=180&section=footer&text=Thanks+for+visiting!+✨+Drop+a+⭐+if+you+like+my+work!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=68&desc=She+codes.+She+ships.+She+inspires.+💜&descAlignY=85&descSize=14&descColor=FFD6F5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF6FD8,35:AE45EA,65:6C63FF,100:0D0D0D&amp;height=180&amp;section=footer&amp;text=Thanks+for+visiting!+✨+Drop+a+⭐+if+you+like+my+work!&amp;fontSize=22&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=68&amp;desc=Code+with+passion.+Build+with+purpose.+Ship+with+confidence.+💜&amp;descAlignY=85&amp;descSize=14&amp;descColor=FFD6F5"/>
 
 </div>
 
