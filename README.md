@@ -4,48 +4,18 @@
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              HERO BANNER                       -->
-<!-- ══════════════════════════════════════════════ -->
+<!-- ✦✦✦ HERO BANNER — Soft Bloom Style ✦✦✦ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,30:302B63,60:24243e,100:A855F7&height=300&section=header&text=Yogeshwari%20Kalaskar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=⚡%20Full%20Stack%20Developer%20%7C%20🤖%20AI%20Engineer%20%7C%20🐍%20Python%20Wizard&descAlignY=65&descSize=20&descColor=E0AAFF&stroke=A855F7&strokeWidth=2"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,25:1a1548,55:24243e,100:2d1b69&height=320&section=header&text=Yogeshwari%20Kalaskar&fontSize=62&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=⚡%20Full%20Stack%20Developer%20%7C%20🤖%20AI%20Engineer%20%7C%20🐍%20Python%20Wizard&descSize=19&descAlignY=63&descColor=C4B5FD&stroke=A855F7&strokeWidth=2"/>
+<div align="center">
 
-<br/>
 
-<!-- ══ TYPING LINE ══ -->
+<!-- ✦ ANIMATED TYPING SVG ✦ -->
 <a href="https://github.com/Yogeshwari7887">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=A855F7&center=true&vCenter=true&width=720&height=52&lines=🚀+Building+the+Future+with+Code;🤖+AI-Powered+Smart+Traffic+|+92%25+Accuracy;🌐+Full+Stack+|+Python+|+Django+|+React;💡+B.Tech+IT+@+VIT+Pune+|+CGPA+9.4+⭐;🔥+Turning+Ideas+into+Intelligent+Software;✨+Clean+Architecture+|+Scalable+Solutions;💜+Pune,+India+→+Making+Global+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=26&amp;duration=2500&amp;pause=800&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=%F0%9F%9A%80+Building+the+Future+with+Code;%F0%9F%A4%96+AI-Powered+Smart+Traffic+%7C+92%25+Accuracy;%F0%9F%8C%90+Full+Stack+%7C+Python+%7C+Django+%7C+React;%F0%9F%92%A1+B.Tech+IT+%40+VIT+Pune+%7C+CGPA+9.4+%E2%AD%90;%F0%9F%94%A5+Turning+Ideas+into+Intelligent+Software;%E2%9C%A8+Clean+Architecture+%7C+Scalable+Solutions;%F0%9F%92%9C+Pune%2C+India+%E2%86%92+Making+Global+Impact" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- ══ STAT PILLS ══ -->
-![CGPA](https://img.shields.io/badge/CGPA-9.4_⭐-A855F7?style=flat-square&labelColor=0F0C29)
-&nbsp;
-![AI Accuracy](https://img.shields.io/badge/AI_Accuracy-92%25-C084FC?style=flat-square&labelColor=0F0C29)
-&nbsp;
-![VIT Pune](https://img.shields.io/badge/B.Tech_IT-VIT_Pune-7C3AED?style=flat-square&labelColor=0F0C29)
-&nbsp;
-![Location](https://img.shields.io/badge/📍_Pune-Maharashtra,_India-FF6FD8?style=flat-square&labelColor=0F0C29)
-
-<br/><br/>
-
-<!-- ══ CONTACT & PROFILE BADGES ══ -->
-<a href="mailto:yogeshwari7887@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email-yogeshwari7887-FF6FD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=120E2E"/>
-</a>&nbsp;
-<a href="https://github.com/Yogeshwari7887">
-  <img src="https://img.shields.io/badge/💻_GitHub-Yogeshwari7887-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=120E2E"/>
-</a>&nbsp;
-<img src="https://img.shields.io/badge/✅_Open_to_Work-Available-34D399?style=for-the-badge&labelColor=120E2E"/>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Yogeshwari7887&label=✨+Visitors&color=A855F7&style=for-the-badge&labelColor=120E2E"/>
-
-<br/><br/>
-
-<!-- ══ DIVIDER WAVE ══ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480">
-
-</div>
 <br/><br/>
 
 <!-- ✦ BADGES ROW ✦ -->
@@ -678,6 +648,8 @@ support, guidance, and high-trust counseling.
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
