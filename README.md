@@ -353,7 +353,7 @@ me = YogeshwariKalaskar()
 
 </div>
 
-<!-- PROJECT 1 -->
+<!-- PROJECT 1 — Left text | Right terminal (🚦 AI Traffic) -->
 <div align="center">
 
 ### 🚦 Project 01 &nbsp;·&nbsp; AI Smart Traffic Management System
@@ -368,7 +368,7 @@ me = YogeshwariKalaskar()
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 <pre lang="text">
 🎯  PROBLEM STATEMENT
@@ -393,7 +393,7 @@ An intelligent system that sees & reacts:
 </pre>
 
 </td>
-<td width="45%" align="center">
+<td width="45%" align="center" valign="top">
 
 <pre lang="text">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -423,7 +423,7 @@ An intelligent system that sees & reacts:
 
 <br/>
 
-<!-- PROJECT 2 -->
+<!-- PROJECT 2 — Right features | Left admin panel (🛒 GrowPure) -->
 <div align="center">
 
 ### 🛒 Project 02 &nbsp;·&nbsp; GrowPure — Organic E-Commerce Platform
@@ -436,33 +436,15 @@ An intelligent system that sees & reacts:
 
 <table>
 <tr>
-<td width="55%" align="center">
-
-<pre lang="text">
-
-│  🌿  GROWPURE · ADMIN PANEL    
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-│  📦 Orders      →   247   🟢    
-│  👥 Users       →  1,394  🔵    
-│  🏷️  Coupons     →    18   🟣    
-│  💰 Revenue     → ₹92,400 📈    
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-│  🛒 Cart Sessions Active: 83    
-│  ❤️  Wishlists     Total:  512   
-│  🚚 Pending Orders →  12        
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</pre>
-
-</td>
-<td width="45%">
+<td width="45%" valign="top">
 
 <pre lang="text">
 🌟  ENTERPRISE FEATURES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   🔐 Secure Authentication System
   🛍️ Shopping Cart & Session Management
-  ❤️ Personalized Wishlists
-  🏷️ Dynamic Coupon & Discount Engine
+  ❤️  Personalized Wishlists
+  🏷️  Dynamic Coupon & Discount Engine
   📦 Order Tracking & Shipping Pipelines
   👤 Dual Dashboards (User & Vendor)
   📱 Mobile-First Responsive Design
@@ -476,12 +458,36 @@ An intelligent system that sees & reacts:
 </pre>
 
 </td>
+<td width="55%" align="center" valign="top">
+
+<pre lang="text">
+│  🌿  GROWPURE · ADMIN PANEL    
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+│  📦 Orders      →   247   🟢    
+│  👥 Users       →  1,394  🔵    
+│  🏷️  Coupons     →    18   🟣    
+│  💰 Revenue     → ₹92,400 📈    
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+│  🛒 Cart Sessions Active: 83    
+│  ❤️  Wishlists     Total:  512   
+│  🚚 Pending Orders →  12        
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-<!-- PROJECT 3 -->
+<!-- PROJECT 3 — Full width centered (💙 YourHearingEar) -->
 <div align="center">
 
 ### 💙 Project 03 &nbsp;·&nbsp; YourHearingEar — Personal Counseling Platform
@@ -490,48 +496,62 @@ An intelligent system that sees & reacts:
 &nbsp;
 <img src="https://img.shields.io/badge/✅_Completed-September_2025-FF6FD8?style=for-the-badge&amp;labelColor=120E2E"/>
 
-</div>
+<br/><br/>
 
 <table>
 <tr>
-<td width="55%">
+<td align="center" width="33%" valign="top">
+
+**💙 Platform Mission**
 
 <pre lang="text">
-💙  PLATFORM MISSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-A digital safe space for empathetic counseling
-built with ethical design standards to provide
-support, guidance, and high-trust counseling.
-
-🌟  UX & FUNCTIONALITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🧭 Structured Guidance Modules
-  💬 Conversational Support Frameworks
-  🎨 High-Accessibility Inclusive Design
-  🛡️ Ethical User Interactions
-  🤝 Trust-Building Interfaces
-  🔒 Privacy-First Data Safeguards
-
-💎  PRODUCT PHILOSOPHY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Empathy → Trust → Support → Growth
+A digital safe space for
+empathetic counseling built
+with ethical design standards
+to provide support, guidance,
+and high-trust counseling.
 </pre>
 
 </td>
-<td width="45%" align="center">
+<td align="center" width="34%" valign="top">
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+**🌟 UX & Functionality**
+
+<pre lang="text">
+🧭 Guidance Modules
+💬 Support Frameworks
+🎨 Inclusive Design
+🛡️ Ethical Interactions
+🤝 Trust-Building UI
+🔒 Privacy-First Data
+</pre>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+**💎 Tech Stack**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
 <br/><br/>
 
-> 💜 *"Technology can be a bridge to healing — not just productivity."*
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/><br/>
+
+> 💜 *"Technology can be a bridge to healing."*
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -569,10 +589,10 @@ support, guidance, and high-trust counseling.
 <table border="0" width="100%">
   <tr>
     <td width="48%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&amp;layout=donut-vertical&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D0D1A&amp;title_color=FF6FD8&amp;text_color=FFD6F5&amp;border_radius=18&amp;langs_count=8" width="100%" alt="Top Languages Donut"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&amp;layout=donut&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D0D1A&amp;title_color=FF6FD8&amp;text_color=FFD6F5&amp;border_radius=18&amp;langs_count=8&amp;cache_seconds=86400" width="100%" alt="Top Languages Donut"/>
     </td>
     <td width="52%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D0D1A&amp;title_color=FF6FD8&amp;text_color=FFD6F5&amp;border_radius=18&amp;langs_count=10" width="100%" alt="Top Languages List"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshwari7887&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D0D1A&amp;title_color=FF6FD8&amp;text_color=FFD6F5&amp;border_radius=18&amp;langs_count=10&amp;cache_seconds=86400" width="100%" alt="Top Languages List"/>
     </td>
   </tr>
 </table>
